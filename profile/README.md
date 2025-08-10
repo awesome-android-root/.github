@@ -84,7 +84,7 @@ Follow our **proven 4-step process** used by thousands:
 - **[📚 Complete Rooting Master Guide](https://awesome-android-root.org/android-root-guides/)** - Step-by-step tutorials
 - **[❓ FAQ & Troubleshooting](https://awesome-android-root.org/faqs)** - Fix bootloops, SafetyNet issues
 - **[🛡️ Privacy & Security Guides](https://awesome-android-root.org/guides/)** - Advanced privacy controls
-- **[📱 Device-Specific Guides](https://awesome-android-root.org/android-root-guides/#device-specific-root-guides)** - Pixel, Samsung, Xiaomi, OnePlus
+- **[📱 Device-Specific Guides](https://awesome-android-root.org/android-root-guides/#device-specific-guides)** - Pixel, Samsung, Xiaomi, OnePlus
 
 ---
 
