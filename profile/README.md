@@ -1,176 +1,103 @@
 <div align="center">
 
-# 🚀 Awesome Android Root
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://awesome-android-root.org/images/logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://awesome-android-root.org/images/logo_dark.svg">
+  <img src="https://awesome-android-root.org/images/logo.svg" alt="Awesome Android Root Logo" width="120" height="120" />
+</picture>
 
-**The Ultimate Community-Driven Hub for Android Root Solutions & Advanced Customization**
+# Awesome Android Root
 
-[![GitHub followers](https://img.shields.io/github/followers/awesome-android-root?style=for-the-badge&logo=github&color=blue)](https://github.com/awesome-android-root)
+**The Complete Hub for Android Root Solutions & Advanced Customization**
+
 [![GitHub Stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=yellow)](https://github.com/awesome-android-root/awesome-android-root)
+[![Total Apps](https://img.shields.io/badge/Apps%20%26%20Modules-430+-blue?style=for-the-badge&logo=android)](https://awesome-android-root.org/android-root-apps/)
+[![Website](https://img.shields.io/badge/Website-awesome--android--root.org-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://awesome-android-root.org)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/awsm_and_root?style=for-the-badge&logo=x)](https://x.com/awsm_and_root)
-
-[![Reddit](https://img.shields.io/badge/r/AwesomeAndroidRoot-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/AwesomeAndroidRoot)
-
-[![Website](https://img.shields.io/badge/🌐_Official_Website-awesome--android--root.org-blue?style=for-the-badge)](https://awesome-android-root.org/)
+**[Explore Apps](https://awesome-android-root.org/android-root-apps/) • [Read Guides](https://awesome-android-root.org/android-root-guides/) • [Join Community](https://github.com/orgs/awesome-android-root/discussions)**
 
 </div>
 
 ---
 
-## 🎯 What We're About
+## What We Offer
 
-**Awesome Android Root** is the **premier destination** for Android enthusiasts seeking to maximize their device's capabilities through rooting. We curate the most powerful, reliable, and innovative root solutions for the global Android community with **330+ carefully vetted applications and modules**.
+A comprehensive collection of **430+ root applications and modules**, expert rooting guides, and detailed documentation for Android enthusiasts worldwide.
 
-<details>
-<summary><strong>🚀 Quick Start Guide</strong></summary>
+### Key Features
 
-### 🔰 New to Rooting?
-1. **[📖 What is Root Access?](https://awesome-android-root.org/android-root-guides/#what-is-root-access)** - Learn the fundamentals
-2. **[🛡️ Safety Guidelines](https://awesome-android-root.org/faqs#is-rooting-safe)** - Understand risks and precautions
-3. **[✅ Prerequisites Checklist](https://awesome-android-root.org/android-root-guides/#essential-prerequisites-checklist)** - Prepare your device
+- **Curated Collection** — Over 430 tested applications across 25+ categories
+- **Complete Guides** — Step-by-step tutorials for all skill levels
+- **Safety First** — Best practices and risk mitigation strategies
+- **Always Updated** — Full Android 14/15 compatibility
+- **Open Source** — Transparent and collaborative development
 
-### ⚡ Ready to Root?
-Follow our **proven 4-step process** used by thousands:
+<br>
 
-**[🔓 Unlock Bootloader](https://awesome-android-root.org/android-root-guides/how-to-unlock-bootloader)** → **[🛠️ Install Recovery](https://awesome-android-root.org/android-root-guides/how-to-install-custom-recovery)** → **[⚡ Root Device](https://awesome-android-root.org/android-root-guides/#root-methods-comparison)** → **[🎯 Install Apps](https://awesome-android-root.org/android-root-apps/#featured-apps-the-essentials)**
 
-</details>
+## Get Started
 
-### 🌟 Why Choose Awesome Android Root?
+```mermaid
+graph LR
+    A[1. Visit Website] --> B[2. Choose Root Method]
+    B --> C[3. Follow Device Guide]
+    
+    click A "https://awesome-android-root.org"
+    click B "https://awesome-android-root.org/android-root-guides"
+    click C "https://awesome-android-root.org/android-root-guides/#device-specific-guides"
+```
 
-<table>
-<tr>
-<td align="center"><strong>🔥<br>Curated Excellence</strong><br>Hand-picked tools tested by the community</td>
-<td align="center"><strong>📚<br>Comprehensive Guides</strong><br>From beginner tutorials to advanced mods</td>
-<td align="center"><strong>🛡️<br>Safety First</strong><br>Best practices and responsible rooting</td>
-</tr>
-<tr>
-<td align="center"><strong>🌍<br>Community-Driven</strong><br>Built by enthusiasts, for enthusiasts</td>
-<td align="center"><strong>⚡<br>Always Updated</strong><br>Latest tools and Android compatibility</td>
-<td align="center"><strong>🎯<br>1.6k+ Stars</strong><br>Trusted by thousands of developers</td>
-</tr>
-</table>
+Complete beginner? Our website has everything you need : **[🚀 Start Here](https://awesome-android-root.org/android-root-guides/)**
 
 ---
 
-## 🛠️ What You'll Discover
+#### **Getting Started:**
+[What is Rooting?](https://awesome-android-root.org/android-root-guides/#what-is-android-rooting) • [Choose Your Method](https://awesome-android-root.org/android-root-guides/#rooting-methods) • [Safety First](https://awesome-android-root.org/faqs#is-rooting-safe)
 
-### 📱 **330+ Premium Root Applications**
-<details>
-<summary><strong>🔍 Explore by Category</strong></summary>
+#### **Popular Devices:**
 
-| Category | Description | Popular Apps |
-|----------|-------------|--------------|
-| **🛡️ Ad Blocking & Privacy** | System-level ad blocking and privacy protection | AdAway, Blokada, AFWall+ |
-| **⚡ Performance & Gaming** | CPU optimization, memory management, FPS unlock | Magisk modules, Performance tuners |
-| **🎨 Customization** | Themes, fonts, launchers, boot animations | Iconify, ColorBlendr, Magisk Fonts |
-| **🔧 System Management** | Debloating, backup, file management | SD Maid 2, MiXplorer, Neo Backup |
-| **📱 App Modifications** | Enhanced social media and messaging apps | ReVanced, LSPosed modules |
-
-</details>
-
-### 🧩 **Magisk, KernelSU & LSPosed Modules**
-<details>
-<summary><strong>🎯 Core Framework Support</strong></summary>
-
-- **[🔮 Magisk](https://awesome-android-root.org/android-root-guides/magisk-guide)**: Most popular systemless root with 100+ modules
-- **[⚙️ KernelSU](https://awesome-android-root.org/android-root-guides/kernelsu-guide)**: Kernel-level root solution for enhanced security
-- **[🎭 LSPosed](https://awesome-android-root.org/android-root-guides/lsposed-guide)**: Modern Xposed Framework for Android 8.1+
-- **[🛡️ APatch](https://awesome-android-root.org/android-root-guides/apatch-guide)**: Alternative kernel patching solution
-
-</details>
-
-### 📖 **Expert Guides & Documentation**
-- **[📚 Complete Rooting Master Guide](https://awesome-android-root.org/android-root-guides/)** - Step-by-step tutorials
-- **[❓ FAQ & Troubleshooting](https://awesome-android-root.org/faqs)** - Fix bootloops, SafetyNet issues
-- **[🛡️ Privacy & Security Guides](https://awesome-android-root.org/guides/)** - Advanced privacy controls
-- **[📱 Device-Specific Guides](https://awesome-android-root.org/android-root-guides/#device-specific-guides)** - Pixel, Samsung, Xiaomi, OnePlus
+[Pixel](https://awesome-android-root.org/android-root-guides/how-to-root-pixel-phone) • 
+[Samsung](https://awesome-android-root.org/android-root-guides/how-to-root-samsung-phone) • 
+[Xiaomi](https://awesome-android-root.org/android-root-guides/how-to-root-xiaomi-phone) • 
+[OnePlus](https://awesome-android-root.org/android-root-guides/how-to-root-oneplus-phone) • 
+[Nothing](https://awesome-android-root.org/android-root-guides/how-to-root-nothing-phone) • 
+[More →](https://awesome-android-root.org/android-root-guides/#device-specific-guides)
 
 ---
 
-## 🎯 Perfect For
+## Community Stats
 
 <div align="center">
 
-| 🔧 **Power Users** | 💻 **Developers** | 🎨 **UI Enthusiasts** |
-|:-----------------:|:----------------:|:--------------------:|
-| Maximum Android customization | Root-enabled applications | Complete interface control |
+![Star History](https://api.star-history.com/svg?repos=awesome-android-root/awesome-android-root&type=Date)
 
-| 🔒 **Privacy Advocates** | ⚡ **Performance Tuners** | 🧪 **Android Modders** |
-|:----------------------:|:-----------------------:|:----------------------:|
-| Deep system-level control | Device optimization | Advanced modifications |
+[![GitHub Discussions](https://img.shields.io/github/discussions/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&label=Active%20Discussions)](https://github.com/awesome-android-root/awesome-android-root/discussions)
+[![Twitter Followers](https://img.shields.io/twitter/follow/awsm_and_root?style=for-the-badge&logo=x&label=Follow)](https://x.com/awsm_and_root)
+
+
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/awesome-android-root/awesome-android-root?style=flat-square&logo=github&label=Monthly%20Commits)](https://github.com/awesome-android-root/awesome-android-root/pulse)
+[![Contributors](https://img.shields.io/github/contributors/awesome-android-root/awesome-android-root?style=flat-square&logo=github)](https://github.com/awesome-android-root/awesome-android-root/graphs/contributors)
+[![Issues Resolved](https://img.shields.io/github/issues-closed/awesome-android-root/awesome-android-root?style=flat-square&logo=github&label=Issues%20Resolved)](https://github.com/awesome-android-root/awesome-android-root/issues?q=is%3Aissue+is%3Aclosed)
+[![Pull Requests](https://img.shields.io/github/issues-pr-closed/awesome-android-root/awesome-android-root?style=flat-square&logo=github&label=PRs%20Merged)](https://github.com/awesome-android-root/awesome-android-root/pulls?q=is%3Apr+is%3Aclosed)
+
 
 </div>
 
----
+<br>
 
-## 🚀 Getting Started
+## Resources & Support
 
 <div align="center">
+<br>
 
-### 📋 Quick Actions
+**[Website](https://awesome-android-root.org)** • **[FAQ](https://awesome-android-root.org/faqs)** • **[Troubleshooting](https://awesome-android-root.org/troubleshooting)** • **[Contributing](https://awesome-android-root.org/contributing)**
 
-**[⭐ Star Repository](https://github.com/awesome-android-root/awesome-android-root)** • **[🚀 Explore 330+ Apps](https://awesome-android-root.org/android-root-apps/)** • **[📚 Read Guides](https://awesome-android-root.org/android-root-guides/)** • **[💬 Join Community](https://reddit.com/r/AwesomeAndroidRoot)**
-
-</div>
-
-### 🎓 Learning Path
-
-1. **🌟 Star Our Repository** - Stay updated with the latest releases
-2. **📚 Read Our Guides** - Start with comprehensive rooting documentation  
-3. **💬 Join Our Community** - Connect with fellow Android enthusiasts
-4. **🛠️ Explore Applications** - Discover curated root apps and modules
-5. **🤝 Contribute Back** - Share your knowledge and help others
+> **Warning:** Rooting voids warranty and may introduce security risks. [Read our safety guidelines](https://awesome-android-root.org/faqs#is-rooting-safe) before proceeding.
 
 ---
 
-## 🌐 Connect With Our Community
+**Visit [awesome-android-root.org](https://awesome-android-root.org) for the full experience**
 
-<div align="center">
-
-### 📚 Official Channels
-
-[![Website](https://img.shields.io/badge/🌐_Official_Website-awesome--android--root.org-blue?style=for-the-badge)](https://awesome-android-root.org/)
-[![GitHub](https://img.shields.io/badge/📱_GitHub_Repository-awesome--android--root-black?style=for-the-badge&logo=github)](https://github.com/awesome-android-root/awesome-android-root)
-
-### 🏷️ Social Media
-
-[![Twitter](https://img.shields.io/badge/🐦_Twitter/X-@awsm__and__root-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/awsm_and_root)
-[![Reddit](https://img.shields.io/badge/💬_Reddit-r/AwesomeAndroidRoot-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/AwesomeAndroidRoot)
-
-### 🤝 Support & Contribute
-
-[![Open Collective](https://img.shields.io/badge/💖_Support_Project-Open_Collective-blue?style=for-the-badge&logo=opencollective)](https://opencollective.com/awesome-android-root-official)
-[![GitHub Discussions](https://img.shields.io/badge/💡_GitHub_Discussions-Join_Now-green?style=for-the-badge&logo=github)](https://github.com/awesome-android-root/awesome-android-root/discussions)
-
-</div>
-
----
-
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=blue)
-![GitHub watchers](https://img.shields.io/github/watchers/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=green)
-
-![GitHub contributors](https://img.shields.io/github/contributors/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=orange)
-![GitHub last commit](https://img.shields.io/github/last-commit/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=red)
-![GitHub issues](https://img.shields.io/github/issues/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=purple)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Made with ❤️ by the Android Root Community
-
-**Empowering Android users worldwide with safe, powerful, and innovative root solutions**
-
-*Licensed under [MIT License](https://github.com/awesome-android-root/awesome-android-root/blob/main/LICENSE) • [Contributing Guidelines](https://awesome-android-root.org/contributing) • [Code of Conduct](https://github.com/awesome-android-root/awesome-android-root/blob/main/.github/CODE_OF_CONDUCT.md)*
-
-**[⬆️ Back to Top](#-awesome-android-root)**
+Licensed under [MIT](LICENSE) • [Code of Conduct](.github/CODE_OF_CONDUCT.md)
 
 </div>
