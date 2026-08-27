@@ -1,20 +1,21 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://awesome-android-root.org/images/logo.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://awesome-android-root.org/images/logo_dark.svg">
-  <img src="https://awesome-android-root.org/images/logo.svg" alt="Awesome Android Root Logo" width="120" height="120" />
+  <source media="(prefers-color-scheme: light)" srcset="https://awesome-android-root.zhoe.org/images/logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://awesome-android-root.zhoe.org/images/logo_dark.svg">
+  <img src="https://awesome-android-root.zhoe.org/images/logo.svg" alt="Awesome Android Root Logo" width="120" height="120">
 </picture>
 
 # Awesome Android Root
 
-**The Complete Hub for Android Root Solutions & Advanced Customization**
+**The Ultimate Android Rooting Hub**
 
-[![GitHub Stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&color=yellow)](https://github.com/awesome-android-root/awesome-android-root)
-[![Total Apps](https://img.shields.io/badge/Apps%20%26%20Modules-430+-blue?style=for-the-badge&logo=android)](https://awesome-android-root.org/android-root-apps/)
-[![Website](https://img.shields.io/badge/Website-awesome--android--root.org-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://awesome-android-root.org)
+500+ root apps, Magisk, KernelSU, APatch and LSPosed/Xposed modules, plus rooting guides and Android customization resources.
 
-**[Explore Apps](https://awesome-android-root.org/android-root-apps/) • [Read Guides](https://awesome-android-root.org/android-root-guides/) • [Join Community](https://github.com/orgs/awesome-android-root/discussions)**
+[![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-500%2B-blue?style=for-the-badge&logo=android)](https://awesome-android-root.zhoe.org/android-root-apps/)
+[![Website](https://img.shields.io/badge/Website-awesome--android--root.zhoe.org-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://awesome-android-root.zhoe.org/)
+
+**[Explore Apps](https://awesome-android-root.zhoe.org/android-root-apps/) • [Rooting Guides](https://awesome-android-root.zhoe.org/rooting-guides/) • [Community](https://github.com/awesome-android-root/awesome-android-root/discussions)**
 
 </div>
 
@@ -22,82 +23,119 @@
 
 ## What We Offer
 
-A comprehensive collection of **430+ root applications and modules**, expert rooting guides, and detailed documentation for Android enthusiasts worldwide.
+A curated collection of **500+ Android root apps and modules**, rooting tutorials, device-specific guides, and resources for advanced Android customization.
 
-### Key Features
+- **Root Solutions:** Magisk, KernelSU, APatch and other root implementations
+- **Modules & Frameworks:** LSPosed, Xposed, Zygisk, Vector and related tools
+- **Device Guides:** Pixel, Samsung, Xiaomi, OnePlus, Nothing, Motorola and more
+- **System Tools:** Debloating, system modification, backups, kernels, permissions and diagnostics
+- **Privacy & Security:** Ad blocking, firewalls, privacy tools, root detection and Play Integrity
+- **Customization:** UI, fonts, gestures, status bar, lockscreen, audio and display modifications
+- **Developer Tools:** ADB, terminals, automation, Linux environments and debugging
 
-- **Curated Collection** — Over 430 tested applications across 25+ categories
-- **Complete Guides** — Step-by-step tutorials for all skill levels
-- **Safety First** — Best practices and risk mitigation strategies
-- **Always Updated** — Full Android 14/15 compatibility
-- **Open Source** — Transparent and collaborative development
+## Rooting Guides
 
-<br>
+Start with the **[Android Rooting Guide](https://awesome-android-root.zhoe.org/rooting-guides/)** for preparation, bootloader unlocking, root installation and post-root configuration.
 
+### Root Methods
 
-## Get Started
+| Method | Description |
+| :--- | :--- |
+| **[Magisk](https://github.com/topjohnwu/Magisk)** | Systemless root and module management |
+| **[KernelSU](https://github.com/tiann/KernelSU)** | Kernel-based root with granular access control |
+| **[APatch](https://github.com/bmax121/APatch)** | Kernel patching and KPM-based modifications |
 
-```mermaid
-graph LR
-    A[1. Visit Website] --> B[2. Choose Root Method]
-    B --> C[3. Follow Device Guide]
-    
-    click A "https://awesome-android-root.org"
-    click B "https://awesome-android-root.org/android-root-guides"
-    click C "https://awesome-android-root.org/android-root-guides/#device-specific-guides"
-```
+The guides also cover **KernelSU Next**, other root solutions, LSPosed/Vector frameworks, root hiding and Play Integrity.
 
-Complete beginner? Our website has everything you need : **[🚀 Start Here](https://awesome-android-root.org/android-root-guides/)**
+### Device-Specific Guides
+
+[Pixel](https://awesome-android-root.zhoe.org/rooting-guides/how-to-root-pixel-phone) •
+[Samsung](https://awesome-android-root.zhoe.org/rooting-guides/how-to-root-samsung-phone) •
+[Xiaomi / HyperOS](https://awesome-android-root.zhoe.org/rooting-guides/how-to-root-xiaomi-phone) •
+[OnePlus](https://awesome-android-root.zhoe.org/rooting-guides/how-to-root-oneplus-phone) •
+[Nothing](https://awesome-android-root.zhoe.org/rooting-guides/how-to-root-nothing-phone) •
+[Motorola](https://awesome-android-root.zhoe.org/rooting-guides/how-to-root-motorola-phone) •
+[More](https://awesome-android-root.zhoe.org/rooting-guides/#device-specific-guides)
+
+### Additional Guides
+
+- [LSPosed Framework](https://awesome-android-root.zhoe.org/rooting-guides/lsposed-guide)
+- [Custom ROM Installation](https://awesome-android-root.zhoe.org/rooting-guides/custom-rom-installation)
+- [Root Without Unlocking the Bootloader](https://awesome-android-root.zhoe.org/rooting-guides/root-without-unlocking-bootloader)
+- [Troubleshooting](https://awesome-android-root.zhoe.org/troubleshooting)
+- [FAQ](https://awesome-android-root.zhoe.org/faqs)
 
 ---
 
-#### **Getting Started:**
-[What is Rooting?](https://awesome-android-root.org/android-root-guides/#what-is-android-rooting) • [Choose Your Method](https://awesome-android-root.org/android-root-guides/#rooting-methods) • [Safety First](https://awesome-android-root.org/faqs#is-rooting-safe)
+## Root Apps & Modules
 
-#### **Popular Devices:**
+The collection covers **500+ entries** across categories including:
 
-[Pixel](https://awesome-android-root.org/android-root-guides/how-to-root-pixel-phone) • 
-[Samsung](https://awesome-android-root.org/android-root-guides/how-to-root-samsung-phone) • 
-[Xiaomi](https://awesome-android-root.org/android-root-guides/how-to-root-xiaomi-phone) • 
-[OnePlus](https://awesome-android-root.org/android-root-guides/how-to-root-oneplus-phone) • 
-[Nothing](https://awesome-android-root.org/android-root-guides/how-to-root-nothing-phone) • 
-[More →](https://awesome-android-root.org/android-root-guides/#device-specific-guides)
+### Root & Modules
+
+- Root managers
+- Module managers and metamodules
+- LSPosed & Xposed
+- Zygisk
+- Root hiding & Play Integrity
+- Bootloop protection
+- Root detection and testing
+
+### System & Performance
+
+- System tweaks and UI
+- Debloating
+- App and package management
+- Permissions and AppOps
+- Kernel management
+- Performance, memory and battery optimization
+- Charging and power management
+
+### Privacy & Security
+
+- Ad and tracker blocking
+- Firewalls and network filtering
+- Privacy and security tools
+- Device ID and spoofing
+- App isolation
+
+### Apps & Customization
+
+- App patchers and mods
+- YouTube and media mods
+- Social media and browser mods
+- File managers and backup tools
+- Themes, launchers, fonts and emojis
+- Status bar, gestures, notifications and lockscreen customization
+
+### Developer & Utilities
+
+- Terminal and shell
+- ADB and debugging
+- Linux environments
+- Automation
+- Hardware and sensor tools
+- Network and connectivity tools
+- Gaming tools
+
+[**Browse the complete collection →**](https://awesome-android-root.zhoe.org/android-root-apps/)
 
 ---
 
-## Community Stats
+## Resources
+
+- [Website](https://awesome-android-root.zhoe.org/)
+- [Rooting Guides](https://awesome-android-root.zhoe.org/rooting-guides/)
+- [Apps & Modules](https://awesome-android-root.zhoe.org/android-root-apps/)
+- [FAQ](https://awesome-android-root.zhoe.org/faqs)
+- [Troubleshooting](https://awesome-android-root.zhoe.org/troubleshooting)
+- [Contributing](https://awesome-android-root.zhoe.org/contributing)
+- [GitHub Discussions](https://github.com/awesome-android-root/awesome-android-root/discussions)
+
+> **Warning:** Rooting can introduce security risks, affect OTA updates, trip device security mechanisms, and may void your warranty. Always back up your data and follow the device-specific instructions before modifying your device.
 
 <div align="center">
 
-![Star History](https://api.star-history.com/svg?repos=awesome-android-root/awesome-android-root&type=Date)
-
-[![GitHub Discussions](https://img.shields.io/github/discussions/awesome-android-root/awesome-android-root?style=for-the-badge&logo=github&label=Active%20Discussions)](https://github.com/awesome-android-root/awesome-android-root/discussions)
-[![Twitter Followers](https://img.shields.io/twitter/follow/awsm_and_root?style=for-the-badge&logo=x&label=Follow)](https://x.com/awsm_and_root)
-
-
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/awesome-android-root/awesome-android-root?style=flat-square&logo=github&label=Monthly%20Commits)](https://github.com/awesome-android-root/awesome-android-root/pulse)
-[![Contributors](https://img.shields.io/github/contributors/awesome-android-root/awesome-android-root?style=flat-square&logo=github)](https://github.com/awesome-android-root/awesome-android-root/graphs/contributors)
-[![Issues Resolved](https://img.shields.io/github/issues-closed/awesome-android-root/awesome-android-root?style=flat-square&logo=github&label=Issues%20Resolved)](https://github.com/awesome-android-root/awesome-android-root/issues?q=is%3Aissue+is%3Aclosed)
-[![Pull Requests](https://img.shields.io/github/issues-pr-closed/awesome-android-root/awesome-android-root?style=flat-square&logo=github&label=PRs%20Merged)](https://github.com/awesome-android-root/awesome-android-root/pulls?q=is%3Apr+is%3Aclosed)
-
-
-</div>
-
-<br>
-
-## Resources & Support
-
-<div align="center">
-<br>
-
-**[Website](https://awesome-android-root.org)** • **[FAQ](https://awesome-android-root.org/faqs)** • **[Troubleshooting](https://awesome-android-root.org/troubleshooting)** • **[Contributing](https://awesome-android-root.org/contributing)**
-
-> **Warning:** Rooting voids warranty and may introduce security risks. [Read our safety guidelines](https://awesome-android-root.org/faqs#is-rooting-safe) before proceeding.
-
----
-
-**Visit [awesome-android-root.org](https://awesome-android-root.org) for the full experience**
-
-Licensed under [MIT](LICENSE) • [Code of Conduct](.github/CODE_OF_CONDUCT.md)
+**[Visit awesome-android-root.zhoe.org →](https://awesome-android-root.zhoe.org/)**
 
 </div>
