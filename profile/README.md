@@ -10,9 +10,9 @@
 
 **The Ultimate Android Rooting Hub**
 
-500+ root apps, Magisk, KernelSU, APatch and LSPosed/Xposed modules, plus rooting guides and Android customization resources.
+600+ root apps, Magisk, KernelSU, APatch and LSPosed/Xposed modules, plus rooting guides and Android customization resources.
 
-[![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-500%2B-blue?style=for-the-badge&logo=android)](https://awesome-android-root.zhoe.org/android-root-apps/)
+[![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-600%2B-blue?style=for-the-badge&logo=android)](https://awesome-android-root.zhoe.org/android-root-apps/)
 [![Website](https://img.shields.io/badge/Website-awesome--android--root.zhoe.org-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://awesome-android-root.zhoe.org/)
 
 **[Explore Apps](https://awesome-android-root.zhoe.org/android-root-apps/) • [Rooting Guides](https://awesome-android-root.zhoe.org/rooting-guides/) • [Community](https://github.com/awesome-android-root/awesome-android-root/discussions)**
@@ -23,7 +23,7 @@
 
 ## What We Offer
 
-A curated collection of **500+ Android root apps and modules**, rooting tutorials, device-specific guides, and resources for advanced Android customization.
+A curated collection of **600+ Android root apps and modules**, rooting tutorials, device-specific guides, and resources for advanced Android customization.
 
 - **Root Solutions:** Magisk, KernelSU, APatch and other root implementations
 - **Modules & Frameworks:** LSPosed, Xposed, Zygisk, Vector and related tools
@@ -69,7 +69,7 @@ The guides also cover **KernelSU Next**, other root solutions, LSPosed/Vector fr
 
 ## Root Apps & Modules
 
-The collection covers **500+ entries** across categories including:
+The collection covers **600+ entries** across categories including:
 
 ### Root & Modules
 
