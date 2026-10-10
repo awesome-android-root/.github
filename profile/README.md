@@ -13,7 +13,7 @@
 600+ root apps, Magisk, KernelSU, APatch and LSPosed/Xposed modules, plus rooting guides and Android customization resources.
 
 [![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-600%2B-blue?style=for-the-badge&logo=android)](https://awesome-android-root.xyz/android-root-apps/)
-[![Website](https://img.shields.io/badge/Website-awesome--android--root.zhoe.org-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://awesome-android-root.xyz/)
+[![Website](https://img.shields.io/badge/Website-awesome--android--root.xyz-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://awesome-android-root.xyz/)
 
 **[Explore Apps](https://awesome-android-root.xyz/android-root-apps/) • [Rooting Guides](https://awesome-android-root.xyz/rooting-guides/) • [Community](https://github.com/awesome-android-root/awesome-android-root/discussions)**
 
