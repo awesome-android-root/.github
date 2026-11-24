@@ -132,7 +132,8 @@ The collection covers **800+ entries** across categories including:
 - [Contributing](https://awesome-android-root.xyz/contributing)
 - [GitHub Discussions](https://github.com/awesome-android-root/awesome-android-root/discussions)
 
-> **Warning:** Rooting can introduce security risks, affect OTA updates, trip device security mechanisms, and may void your warranty. Always back up your data and follow the device-specific instructions before modifying your device.
+> [!WARNING]
+> Rooting can introduce security risks, affect OTA updates, trip device security mechanisms, and may void your warranty. Always back up your data and follow the device-specific instructions before modifying your device.
 
 <div align="center">
 
